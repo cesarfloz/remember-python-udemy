@@ -1,0 +1,36 @@
+#####CLASES##### 
+    molde para crear
+
+CLASE=coche
+
+#####ATRIBUTOS#####
+    piezas o caracterisiticas
+
+ATRIBUTOS=#puertas, color, cilindraje, etc
+
+#####METODOS####
+    acciones que puede  hacer nuestro coche
+
+METODOS=arrancar(), acelerar(), encender luces(). etc
+
+#####ABSTRACCION#####
+    podemos utilizzar el objeto sin conocer el funcionamiento interno 
+
+
+###HERENCIA####
+    las clases pueden heredar propiedades y METODOS
+
+HERENCIA=carro"padre"-->puede heredar a bus, camioneta
+
+#####MODULARIDAD#####
+    dividir la app en partes mas pequeñas
+
+#####OCULTACION###
+     datos que solo deben modificar cada clases
+     recomendable tener metodos get 
+
+_______________________________________________________________________________________________
+
+####USO DE Getters y Setters
+
+
